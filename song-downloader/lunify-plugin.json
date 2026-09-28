@@ -1,0 +1,11 @@
+{
+  "id": "song-downloader",
+  "name": "Song Downloader",
+  "version": "1.0.0",
+  "description": "Adds a download button to the player bar. Click it to save the currently playing song as an MP3 to any folder on your device.",
+  "author": "Lunify Team",
+  "icon": "📥",
+  "renderer": "renderer.js",
+  "styles": "styles.css",
+  "official": true
+}
