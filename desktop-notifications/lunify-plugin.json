@@ -1,0 +1,10 @@
+{
+  "id": "desktop-notifications",
+  "name": "Desktop Notifications",
+  "version": "1.0.0",
+  "description": "Shows a system notification whenever a new track starts playing, with the track title, artist, and album art.",
+  "author": "Lunify Team",
+  "icon": "🔔",
+  "renderer": "renderer.js",
+  "official": true
+}
