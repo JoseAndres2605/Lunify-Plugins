@@ -1,9 +1,9 @@
 {
   "id": "desktop-notifications",
-  "name": "Desktop Notifications",
+  "name": "Notificaciones de Escritorio",
   "version": "1.0.0",
-  "description": "Shows a system notification whenever a new track starts playing, with the track title, artist, and album art.",
-  "author": "Lunify Team",
+  "description": "Muestra una notificación del sistema cada vez que comienza a reproducirse una nueva canción, incluyendo el título, el artista y la portada del álbum.",
+  "author": "Equipo Lunify",
   "icon": "🔔",
   "renderer": "renderer.js",
   "official": true
