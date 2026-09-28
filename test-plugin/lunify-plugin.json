@@ -1,9 +1,9 @@
 {
   "id": "test-plugin",
-  "name": "Hello World",
+  "name": "Hola Mundo",
   "version": "1.0.0",
-  "description": "A simple test plugin that shows a greeting toast on startup.",
-  "author": "Snowify Team",
+  "description": "Plugin de demostración para Lunify que muestra un mensaje de bienvenida al iniciar la aplicación.",
+  "author": "Equipo Lunify",
   "icon": "👋",
   "renderer": "renderer.js",
   "styles": "styles.css",
