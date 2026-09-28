@@ -1,0 +1,11 @@
+{
+  "id": "test-plugin",
+  "name": "Hello World",
+  "version": "1.0.0",
+  "description": "A simple test plugin that shows a greeting toast on startup.",
+  "author": "Snowify Team",
+  "icon": "👋",
+  "renderer": "renderer.js",
+  "styles": "styles.css",
+  "official": true
+}
