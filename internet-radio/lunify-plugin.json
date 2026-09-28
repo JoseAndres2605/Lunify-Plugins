@@ -1,8 +1,8 @@
 {
   "id": "internet-radio",
-  "name": "Internet Radio",
+  "name": "Radio por Internet",
   "version": "1.0.0",
-  "description": "Browse and listen to thousands of internet radio stations worldwide.",
+  "description": "Explora y escucha miles de estaciones de radio por Internet de todo el mundo directamente desde Lunify.",
   "author": "ssantss",
   "icon": "📻",
   "renderer": "renderer.js",
