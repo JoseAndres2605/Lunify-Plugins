@@ -1,9 +1,9 @@
 {
   "id": "song-downloader",
-  "name": "Song Downloader",
+  "name": "Descargador de Canciones",
   "version": "1.0.0",
-  "description": "Adds a download button to the player bar. Click it to save the currently playing song as an MP3 to any folder on your device.",
-  "author": "Lunify Team",
+  "description": "Añade un botón de descarga al reproductor para guardar la canción que estás escuchando como archivo MP3 en cualquier carpeta de tu dispositivo.",
+  "author": "Equipo Lunify",
   "icon": "📥",
   "renderer": "renderer.js",
   "styles": "styles.css",
